@@ -1,0 +1,21 @@
+{
+  "name": "MyPhotos - Famous Angular version",
+  "version": "0.0.1",
+  "homepage": "https://github.com/edsadr/MyPhotos",
+  "authors": [
+    "Adrian Estrada <edsadr@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "~0.2.13",
+    "famous-angular": "~0.5.0"
+  }
+}
